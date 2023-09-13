@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Egbinyi
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning website designing.
-- 💞️ I’m looking to collaborate on with professionals and established with development platform.
+- 💞️ I’m looking to collaborate with professionals and established with development platform.
 - 📫 How to reach me . Egbinyi Douglas @ Link or my WhatsApp line 08175466488..
 
 <!---
